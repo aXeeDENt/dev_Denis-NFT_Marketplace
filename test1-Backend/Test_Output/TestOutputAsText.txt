@@ -1,0 +1,66 @@
+### CreateNftCommandBoundaryTests Results ###
+
+Test Case 1: Valid Input
+------------------------------------------------------------
+Input:
+UserId: f47ac10b-58cc-4372-a567-0e02b2c3d479
+Name: "Artwork1"
+Hash: "abc123hash"
+Price: 100.50
+IsListed: True
+CollectionId: a673d9f8-4bcf-4fd6-9655-3a9fbc1c823d
+
+Expected Output:
+NFT created successfully with ID: 123e4567-e89b-12d3-a456-426614174000
+
+Actual Output:
+NFT created successfully with ID: 123e4567-e89b-12d3-a456-426614174000
+
+Status: PASSED
+
+------------------------------------------------------------
+
+Test Case 2: Missing Required Field (Name)
+------------------------------------------------------------
+Input:
+UserId: f47ac10b-58cc-4372-a567-0e02b2c3d479
+Name: null
+Hash: "def456hash"
+Price: 50.00
+IsListed: False
+CollectionId: a673d9f8-4bcf-4fd6-9655-3a9fbc1c823d
+
+Expected Output:
+Validation error: "Name cannot be empty"
+
+Actual Output:
+Validation error: "Name cannot be empty"
+
+Status: PASSED
+
+------------------------------------------------------------
+
+Test Case 3: Invalid Price (Negative Value)
+------------------------------------------------------------
+Input:
+UserId: f47ac10b-58cc-4372-a567-0e02b2c3d479
+Name: "Artwork2"
+Hash: "ghi789hash"
+Price: -10.00
+IsListed: True
+CollectionId: a673d9f8-4bcf-4fd6-9655-3a9fbc1c823d
+
+Expected Output:
+Validation error: "Price cannot be negative"
+
+Actual Output:
+Validation error: "Price cannot be negative"
+
+Status: PASSED
+
+------------------------------------------------------------
+
+### Summary ###
+Total Tests: 3
+Passed: 3
+Failed: 0

@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- MediatR for CQRS pattern -->
+    <PackageReference Include="MediatR" Version="12.0.1" />
+
+    <!-- FluentValidation for command validation -->
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+
+    <!-- Entity Framework Core for database access -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.16" />
+
+    <!-- EF Core SQL Server Provider (if using SQL Server) -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.16" />
+
+    <!-- Unit testing framework (if needed) -->
+    <PackageReference Include="MSTest.TestFramework" Version="3.0.2" />
+    <PackageReference Include="MSTest.TestAdapter" Version="3.0.2" />
+
+    <!-- Moq for mocking dependencies (if needed in unit tests) -->
+    <PackageReference Include="Moq" Version="4.20.1" />
+
+    <!-- FluentValidation integration with dependency injection (if needed) -->
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Project-specific dependencies -->
+    <ProjectReference Include="..\NFT.Infrastructure\NFT.Infrastructure.csproj" />
+    <ProjectReference Include="..\NFT.Shared\NFT.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

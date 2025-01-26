@@ -1,0 +1,5 @@
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Boundary_Tests\obj\Debug\net6.0\BoundaryTests.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Boundary_Tests\obj\Debug\net6.0\BoundaryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Boundary_Tests\obj\Debug\net6.0\BoundaryTests.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Boundary_Tests\obj\Debug\net6.0\BoundaryTests.AssemblyInfo.cs
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Boundary_Tests\obj\Debug\net6.0\BoundaryTests.csproj.CoreCompileInputs.cache

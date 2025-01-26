@@ -1,0 +1,14 @@
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\bin\Debug\net6.0\CreateNftCommandBoundaryTests.exe
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\bin\Debug\net6.0\CreateNftCommandBoundaryTests.deps.json
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\bin\Debug\net6.0\CreateNftCommandBoundaryTests.runtimeconfig.json
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\bin\Debug\net6.0\CreateNftCommandBoundaryTests.dll
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\bin\Debug\net6.0\CreateNftCommandBoundaryTests.pdb
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.AssemblyInfo.cs
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.dll
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\refint\CreateNftCommandBoundaryTests.dll
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.pdb
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\CreateNftCommandBoundaryTests.genruntimeconfig.cache
+C:\Users\user\Documents\MyCSharpProjects\Vision Project\test1-Backend\Test_Output\obj\Debug\net6.0\ref\CreateNftCommandBoundaryTests.dll
