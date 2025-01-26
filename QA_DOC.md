@@ -34,6 +34,8 @@ Scope of the tests
 5. **Buying and Selling**
 - Ensure user can buy an NFT 
 - Verify Payment was succed
+### Boundary Tests
+-
 ### Security Tests
 1. **Smart Contract Security**
 - Verifying the proper work of the Smart Contract
